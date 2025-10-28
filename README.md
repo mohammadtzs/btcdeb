@@ -14,7 +14,7 @@ Mac users need the macOS command line tools:
 xcode-select --install
 ```
 
-And [Homebrew](https://brew.sh/).
+And [Homebrew](https://brew.sh/)..
 
 ## Dependencies
 
